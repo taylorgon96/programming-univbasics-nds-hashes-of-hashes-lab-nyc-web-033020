@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  $PORTION_1 = {
+  portion = {
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
@@ -54,7 +54,7 @@ def naming_system
    },
  }
  
- $PORTION_1
+ portion
 end 
 
   # Remember
