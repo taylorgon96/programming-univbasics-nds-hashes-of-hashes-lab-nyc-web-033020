@@ -43,7 +43,7 @@ def naming_system
            label: "Family",
            sub_category: {
              label: "Genus",
- 
+             sub_category: {}
  
  
  
@@ -53,7 +53,7 @@ def naming_system
      },
    },
  }
- portion_4 = {
+
    label: "Species",
    sub_category: nil
  }
