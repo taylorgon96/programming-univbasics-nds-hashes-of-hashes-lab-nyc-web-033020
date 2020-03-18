@@ -48,10 +48,6 @@ def naming_system
    },
  }
  
- 
-   }
- }
- 
  portion_4 = {
    label: "Species",
    sub_category: nil
